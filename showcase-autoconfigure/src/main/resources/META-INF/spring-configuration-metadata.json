@@ -1,0 +1,35 @@
+{"groups": [
+  {
+    "name": "dummy.props",
+    "type": "com.jmontero.showcase.autoconfigure.config.DummyProperties",
+    "sourceType": "com.jmontero.showcase.autoconfigure.config.DummyProperties"
+  }
+],"properties": [
+  {
+    "name": "dummy.props.name",
+    "type": "java.lang.String",
+    "sourceType": "com.jmontero.showcase.autoconfigure.config.DummyProperties",
+    "defaultValue": "Name to add in System.out"
+  },
+  {
+    "name": "dummy.props.separator",
+    "type": "java.lang.String",
+    "sourceType": "com.jmontero.showcase.autoconfigure.config.DummyProperties",
+    "description": "Character to add between  names."
+
+  }
+],"hints": [
+  {
+    "name": "dummy.enabled",
+    "values": [
+      {
+        "value": "true",
+        "description": "Enable dummy configuration"
+      },
+      {
+        "value": "false",
+        "description": "Disable dummy configuration"
+      }
+    ]
+  }
+]}
