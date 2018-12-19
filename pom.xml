@@ -65,7 +65,7 @@
 
   <modules>
     <module>showcase-autoconfigure</module>
-    <module>showcase-starter</module>
+    <module>showcase-spring-boot-starter</module>
     <module>dummy-interface</module>
     <module>dummy-implementation-one</module>
     <module>dummy-implementation-two</module>

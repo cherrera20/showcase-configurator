@@ -6,6 +6,11 @@
   }
 ],"properties": [
   {
+    "name": "dummy.enabled",
+    "type": "java.lang.Boolean",
+    "defaultValue": "Define if dummy is enabled"
+  },
+  {
     "name": "dummy.props.name",
     "type": "java.lang.String",
     "sourceType": "com.jmontero.showcase.autoconfigure.config.DummyProperties",

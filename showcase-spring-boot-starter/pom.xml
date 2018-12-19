@@ -8,9 +8,9 @@
   </parent>
 
   <groupId>com.jmontero</groupId>
-  <artifactId>showcase-starter</artifactId>
+  <artifactId>showcase-spring-boot-starter</artifactId>
  
-  <name>showcase-starter</name>
+  <name>showcase-spring-boot-starter</name>
 
   <dependencies>
     <dependency>
